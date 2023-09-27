@@ -21,7 +21,7 @@ public class UpdateIthBit {
     }
 
     public static void main(String[] args) {
-        System.out.println(updateIthBit(10, 1, 3));
+        System.out.println(updateIthBit(10, 2, 0));
 
     }
 }
