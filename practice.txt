@@ -187,37 +187,37 @@ Calculate the average of an array of numbers.✅
 Find the largest element in an array. ✅
 Remove duplicates from an array.❌
 Check if an array is sorted in ascending order.✅
-Sum the elements in a 2D array.
-Transpose a matrix.
-Find the intersection of two arrays.
-Implement a simple calculator (addition, subtraction, multiplication, division).
-Write a program to convert Fahrenheit to Celsius.
-Check if a year is a leap year.
-Generate a random number between 1 and 100.
-Implement a basic linear search algorithm.
-Use a loop to print the multiplication table for a given number.
-Calculate the power of a number using a loop.
-Determine if a number is a perfect square.
-Convert a binary number to a decimal.
-Check if a given point lies inside a circle.
-Count the number of vowels and consonants in a string.
-Calculate the area of a circle.
-Determine the largest among three numbers.
-Write a program to find the common elements between two arrays.
-Implement a basic countdown timer using a loop.
-Print the first 10 natural numbers.
-Find the GCD (Greatest Common Divisor) of two numbers.
-Write a program to calculate the sum of digits in a number.
-Determine if a number is an Armstrong number.
-Calculate the square root of a number.
-Implement a program to check if a number is positive, negative, or zero.
-Calculate the perimeter of a rectangle.
-Check if a given year is a century year.
-Print a right-angled triangle pattern using loops.
-Implement a simple number guessing game.
-Determine the eligibility for voting based on age.
-Find the roots of a quadratic equation.
+Sum the elements in a 2D array.✅
+Transpose a matrix. ✅
+Find the intersection of two arrays.       ❌
+Implement a simple calculator (addition, subtraction, multiplication, division). ✅
+Write a program to convert Fahrenheit to Celsius.✅
+Check if a year is a leap year. ✅
+Generate a random number between 1 and 100.✅
+Implement a basic linear search algorithm.     ❌
+Use a loop to print the multiplication table for a given number.   ✅
+Calculate the power of a number using a loop.✅
+Determine if a number is a perfect square. ✅
+Convert a binary number to a decimal.❌
+Check if a given point lies inside a circle. ✅
+Count the number of vowels and consonants in a string. ✅
+Calculate the area of a circle.✅
+Determine the largest among three numbers. ✅
+Write a program to find the common elements between two arrays.❌
+Implement a basic countdown timer using a loop.✅
+Print the first 10 natural numbers.✅
+Find the GCD (Greatest Common Divisor) of two numbers.❌
+Write a program to calculate the sum of digits in a number. ✅
+Determine if a number is an Armstrong number.❌
+Calculate the square root of a number.✅
+Implement a program to check if a number is positive, negative, or zero.✅
+Calculate the perimeter of a rectangle.✅
+Check if a given year is a century year. ✅
+Print a right-angled triangle pattern using loops.✅
+Implement a simple number guessing game.✅
+Determine the eligibility for voting based on age.✅
+Find the roots of a quadratic equation.✅
 Implement a basic string compression algorithm.
 Create a program to print the Pascal's Triangle.
-Write a program to print the Floyd's Triangle.
+Write a program to print the Floyd's Triangle.✅
 Implement a program to check if a triangle is equilateral, isosceles, or scalene.
