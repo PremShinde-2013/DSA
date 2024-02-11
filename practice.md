@@ -1,4 +1,4 @@
-Certainly! Below are 30 questions for each category you specified, ranging from basic to more challenging. These questions cover fundamental concepts in Java related to Strings, Arrays, Loops, Methods, Conditions and Control Flow, Patterns, Functions, Sorting, 2D Arrays, and Bit Manipulation.
+
 
 ### Basics:
 
