@@ -10,7 +10,8 @@ public class PalindromicPattern {
             for (int j = i; j >= 1; j--) {
                 System.out.print(j);
             }
-            // 2st half numbers
+            
+            // 2st half numbers spaces
 
             for (int j = 2; j <= i; j++) {
                 System.out.print(j);
