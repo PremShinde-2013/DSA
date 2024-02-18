@@ -1,3 +1,4 @@
+package C_P;
 public class ThreeNPlusOne {
     public static void main(String[] args) {
       

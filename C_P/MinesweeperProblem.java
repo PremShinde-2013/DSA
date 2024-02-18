@@ -1,3 +1,4 @@
+package C_P;
 import java.util.Random;
 import java.util.Scanner;
 
